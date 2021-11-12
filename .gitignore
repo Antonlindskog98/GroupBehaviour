@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*TopDownExampleMap_BuiltData.uasset
+Content\TopDownBP\Maps\TopDownExampleMap_BuiltData.uasset
